@@ -1,9 +1,5 @@
 """
-This is a python file for you to play with. 
-
-For fun, it is also runnable:
-python3 jfoley.py
-
+This prints hello world between two triangles.
 """
 
 def hello():
