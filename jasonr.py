@@ -10,7 +10,7 @@ Keeping an author in a file in git like this is redundant.
 """
 
 def hello():
-    return "Hello World!";
+    return "Hello, World!";
 
 def print_triangle(n, rev=False):
     if rev:
