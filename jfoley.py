@@ -1,11 +1,3 @@
-"""
-This is a python file for you to play with. 
-
-For fun, it is also runnable:
-python3 jfoley.py
-
-"""
-
 def hello():
     return "Hello World!";
 
