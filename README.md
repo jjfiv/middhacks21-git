@@ -6,6 +6,19 @@ A bot that must have the last word makes for a decent git tutorial.
 
 Create a Github account and send it to the workshop organizer!
 
+## First Time Git Setup
+
+You may have already done this!
+
+```bash
+# Git writes your name and email on your contributions.
+git config --global user.name "John Doe"
+# Try to use the same email you used to sign up for github!
+git config --global user.email johndoe@example.com
+# switch from vim to nano / emacs / code / etc.
+git config --global core.editor nano
+```
+
 ## Clone & Create Your Own File:
 
 This will set you up to work with 'best-case scenario git', where you're working on different files than other people.
