@@ -4,10 +4,10 @@ def hello():
 def print_triangle(n, rev=False):
     if rev:
         for i in reversed(range(n)):
-            print("." * i)
+            print("." * i + 1)
     else:
         for i in range(n):
-            print("." * i)
+            print("." * i + 2)
 
 
 # Yes, the example file is in Python.
