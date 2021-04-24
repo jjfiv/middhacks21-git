@@ -1,3 +1,8 @@
+#
+# Author: johnf@middlebury.edu
+# Keeping an author in a file in git like this is redundant.
+#
+
 
 def hello():
     return "Hello World!";
