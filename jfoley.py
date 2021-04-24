@@ -8,10 +8,10 @@ def hooray():
 def print_triangle(n, rev=False):
     if rev:
         for i in reversed(range(n)):
-            print("." * i)
+            print("#" * i)
     else:
         for i in range(n):
-            print("." * i)
+            print("#" * i)
 
 
 # Yes, the example file is in Python.
