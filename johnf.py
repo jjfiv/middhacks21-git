@@ -1,8 +1,13 @@
-#
-# Author: johnf@middlebury.edu
-# Keeping an author in a file in git like this is redundant.
-#
+"""
+This is a python file for you to play with. 
 
+For fun, it is also runnable:
+python3 johnf.py
+
+Author: johnf@middlebury.edu
+Keeping an author in a file in git like this is redundant.
+
+"""
 
 def hello():
     return "Hello World!";
