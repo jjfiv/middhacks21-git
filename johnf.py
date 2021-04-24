@@ -1,3 +1,10 @@
+"""
+This is a python file for you to play with. 
+
+For fun, it is also runnable:
+python3 johnf.py
+
+"""
 
 def hello():
     return "Hello World!";
