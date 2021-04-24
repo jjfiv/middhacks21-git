@@ -1,13 +1,9 @@
 """
-This is a python file for you to play with. 
-
-For fun, it is also runnable:
-python3 jfoley.py
-
+This prints 'yay git tutorial' between two triangles.
 """
 
-def hello():
-    return "Hello World!";
+def hooray():
+    return "Hooray, Git Tutorial!";
 
 def print_triangle(n, rev=False):
     if rev:
@@ -20,6 +16,6 @@ def print_triangle(n, rev=False):
 
 # Yes, the example file is in Python.
 if __name__ == '__main__':
-  print_triangle(len(hello()))
-  print(hello())
-  print_triangle(len(hello()), rev=True)
+  print_triangle(len(hooray()))
+  print(hooray())
+  print_triangle(len(hooray()), rev=True)
